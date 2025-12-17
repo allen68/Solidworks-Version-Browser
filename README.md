@@ -4,7 +4,8 @@ A lightweight, dark-themed version control tool for SolidWorks that works entire
 
 ![Screenshot](link-to-screenshot.png)
 
-## Features
+## Features<img width="893" height="524" alt="Software-screenshot" src="https://github.com/user-attachments/assets/2f4cbb49-b2d9-47d2-8084-deb793559f1c" />
+
 * **Auto-Snapshot:** Save versions with a single click inside SolidWorks.
 * **Visual History:** View snapshots with JPG previews in a dark-mode browser.
 * **Safe Restore:** Restore old versions without overwriting your current file.
