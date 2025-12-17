@@ -14,13 +14,19 @@ A lightweight, dark-themed version control tool for SolidWorks that works entire
 * **Smart Tree:** See your entire PC's file structure with lazy loading.
 
 ## How to Install
-1. Go to the [Releases](link-to-releases) page.
-2. Download the `SolidWorks.Version.Control.zip`.
+1. Go to the [Releases]page.
+2. Download the `SolidWorks.Version.Control.installer.zip`.
 3. Extract it anywhere (e.g., `C:\SWTools`).
 4. Run `VersionBrowser.exe`.
+
+   OR
+
+1. Download mysetup.exe.
+2. Run it.
 
 ### Setting up the SolidWorks Button
 1. Open SolidWorks.
 2. Go to **Tools > Macro > New**.
 3. Copy the code from `Macro/SnapshotTool.swp` in this repo.
 4. Save it and add it to your toolbar.
+5. Do the same for RestoreTool.swp
