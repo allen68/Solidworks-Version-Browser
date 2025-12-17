@@ -2,9 +2,10 @@
 
 A lightweight, dark-themed version control tool for SolidWorks that works entirely locally (no cloud required). It creates "Time Machine" snapshots of your parts and allows you to branch/experiment safely.
 
-![Screenshot](link-to-screenshot.png)
+![Screenshot]
+<img width="893" height="524" alt="Software-screenshot" src="https://github.com/user-attachments/assets/2f4cbb49-b2d9-47d2-8084-deb793559f1c" />
 
-## Features<img width="893" height="524" alt="Software-screenshot" src="https://github.com/user-attachments/assets/2f4cbb49-b2d9-47d2-8084-deb793559f1c" />
+## Features
 
 * **Auto-Snapshot:** Save versions with a single click inside SolidWorks.
 * **Visual History:** View snapshots with JPG previews in a dark-mode browser.
